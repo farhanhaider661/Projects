@@ -1,0 +1,7 @@
+1. Take credit and movie data and merge them. 
+2. Then remove null values. 
+3. Apply data preprocessing to it. 
+4. Convert the text data into numbers using vectorization.
+5. Create an app using Streamlit.
+6. Streamlit is an open-source Python library that allows you to build interactive web applications for data science and machine learning projects.
+7. Using Pickle library, import the recommender file into pycharm to make an app.
